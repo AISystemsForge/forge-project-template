@@ -6,6 +6,10 @@ Human contributors remain responsible for reviewing and accepting changes.
 ## Operating principles
 
 - Read `README.md`, `PROJECT.md`, and the relevant documentation before editing.
+- Apply the
+  [engineering governance hierarchy](docs/standards/governance.md) before making
+  structural or policy decisions; surface conflicts instead of overriding
+  documented decisions.
 - Follow the
   [AI-assisted engineering standard](docs/standards/ai-assisted-engineering.md).
 - Inspect the actual repository state; do not infer absent architecture.

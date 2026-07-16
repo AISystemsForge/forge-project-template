@@ -22,6 +22,11 @@ branch names, commit messages, documentation, and AI-assisted work. Keep
 project-specific exceptions in the project's own documentation rather than
 changing the organization-wide convention implicitly.
 
+Resolve conflicting guidance according to the
+[engineering governance hierarchy](docs/standards/governance.md). Changes to a
+standard or an exception must be explicit, reviewable, and recorded before the
+new convention is applied.
+
 ## Pull requests
 
 A pull request should:

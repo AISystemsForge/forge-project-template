@@ -17,3 +17,5 @@ consumable revisions.
   configuration.
 - Organization-wide conventions for repository naming, branches, commits,
   documentation, and AI-assisted engineering.
+- Engineering governance hierarchy for resolving conflicting guidance and
+  documenting project-level exceptions.

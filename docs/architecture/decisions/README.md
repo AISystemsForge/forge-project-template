@@ -15,6 +15,11 @@ Use an ADR when a decision:
 
 Do not create ADRs for routine edits or to restate documentation.
 
+The [engineering governance policy](../../standards/governance.md) determines
+when a project decision or exception must be documented before implementation.
+An ADR records a project decision; it does not silently override an
+organization-wide standard.
+
 ## Required content
 
 Each ADR must identify its title, status, date, context, decision, alternatives

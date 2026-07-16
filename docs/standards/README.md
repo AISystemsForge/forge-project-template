@@ -10,6 +10,8 @@ requires one.
 
 ## Standards
 
+- [Engineering governance](governance.md) defines decision authority, conflict
+  resolution, exceptions, and the documented-first workflow.
 - [Repository naming](repository-naming.md) describes how repositories receive
   concise and stable names.
 - [Branch strategy](branch-strategy.md) defines lightweight branch names and
