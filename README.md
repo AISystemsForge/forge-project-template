@@ -50,3 +50,12 @@ maintainers.
 
 See `CONTRIBUTING.md` for the review standard and `PROJECT.md` for the current
 scope of the template.
+
+## Engineering standards
+
+AISystemsForge repositories share a small set of conventions for naming,
+branches, commits, documentation, and AI-assisted engineering. The canonical
+standards are indexed in [docs/standards/README.md](docs/standards/README.md).
+
+Derived repositories should adopt these defaults unless a documented project
+constraint requires a different convention.

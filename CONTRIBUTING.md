@@ -15,6 +15,13 @@ verify, operate, or evolve.
 Discuss a change before implementation when it alters public behavior, repository
 structure, security posture, licensing, or a long-lived engineering policy.
 
+## Organization conventions
+
+Follow the [AISystemsForge engineering standards](docs/standards/README.md) for
+branch names, commit messages, documentation, and AI-assisted work. Keep
+project-specific exceptions in the project's own documentation rather than
+changing the organization-wide convention implicitly.
+
 ## Pull requests
 
 A pull request should:
@@ -46,9 +53,9 @@ metric.
 
 ## Commit quality
 
-Commits should be focused and describe intent. Do not commit secrets, local
-credentials, generated artifacts without a documented reason, or changes whose
-provenance cannot be established.
+Follow the [commit standard](docs/standards/commits.md). Do not commit secrets,
+local credentials, generated artifacts without a documented reason, or changes
+whose provenance cannot be established.
 
 ## Conduct and security
 

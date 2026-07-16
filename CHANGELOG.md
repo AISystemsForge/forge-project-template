@@ -15,3 +15,5 @@ consumable revisions.
 - Project, contribution, security, agent, and architecture decision contracts.
 - Baseline formatting, pull request, issue, and documentation validation
   configuration.
+- Organization-wide conventions for repository naming, branches, commits,
+  documentation, and AI-assisted engineering.

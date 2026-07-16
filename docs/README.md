@@ -15,3 +15,10 @@ The template begins with only `architecture/` because recording consequential
 decisions is universal. Operational guides, research methodology, API references,
 data governance, model documentation, and deployment guides belong in derived
 repositories only when applicable.
+
+## Sections
+
+- [Standards](standards/README.md) defines the organization-wide conventions
+  inherited by future repositories.
+- [Architecture](architecture/README.md) explains how to document system design
+  and preserve consequential decisions.

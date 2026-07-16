@@ -6,6 +6,8 @@ Human contributors remain responsible for reviewing and accepting changes.
 ## Operating principles
 
 - Read `README.md`, `PROJECT.md`, and the relevant documentation before editing.
+- Follow the
+  [AI-assisted engineering standard](docs/standards/ai-assisted-engineering.md).
 - Inspect the actual repository state; do not infer absent architecture.
 - Preserve user changes and keep work inside the requested scope.
 - Make the smallest complete change that satisfies the requirement.
